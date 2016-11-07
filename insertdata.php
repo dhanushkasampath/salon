@@ -20,7 +20,7 @@ $date1=$_POST["date1"];
 $time1=$_POST["time1"];
 $comment=$_POST["comment"];
 
-
+sampath
 // Create connection
 $conn = new mysqli($servername, $username, $password, $dbname);
 // Check connection
